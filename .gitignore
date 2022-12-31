@@ -1,3 +1,5 @@
 *.png
 *.pdf
-*.ipynb
+*.DS_Store
+*.ipynb_checkpoints
+Figures/
